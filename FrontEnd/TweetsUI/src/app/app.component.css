@@ -1,0 +1,37 @@
+.list-group{
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}
+#title{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-slack {
+  background: #3AAF85;
+  color: white;
+}
+#links
+{
+  margin-left: auto;
+  width: 60%;
+  padding: 10px;
+}
